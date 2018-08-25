@@ -1,0 +1,20 @@
+{
+  "name": "api-project",
+  "version": "1.0.0",
+  "description": "An Application for finding GitHub users and repos",
+  "main": "app.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stizzle123/github_finder.git"
+  },
+  "keywords": [],
+  "author": "Arifayan Idowu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stizzle123/github_finder/issues"
+  },
+  "homepage": "https://stizzle123.github.io/github_finder"
+}
